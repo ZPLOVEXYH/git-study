@@ -1,7 +1,0 @@
-test-branch...
-master1
-<<<<<<< HEAD
-touch222
-=======
-touch3
->>>>>>> 5f63e955eb2e4ce9b20d0fef205695cad98cd9e5
